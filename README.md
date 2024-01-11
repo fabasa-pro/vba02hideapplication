@@ -39,4 +39,4 @@ Veja como aplicar [aplicar propriedades de formulário](https://github.com/fabas
 
 Copyright (C) 2012 - 2024 @Fabasa-Pro. Todos os direitos reservados.
 
-Consulte [LICENSE.TXT](https://github.com/fabasa-pro/vba01userform/blob/main/LICENSE.TXT) na raiz do projeto para obter informações.
+Consulte [LICENSE.TXT](https://github.com/fabasa-pro/vba02hideapplication/blob/main/LICENSE.TXT) na raiz do projeto para obter informações.
